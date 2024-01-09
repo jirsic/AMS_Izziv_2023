@@ -1,0 +1,9 @@
+trimesh 
+numpy
+open3d math
+matplotlib
+scipy
+probreg
+collections
+pandas
+argparse
